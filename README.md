@@ -1,3 +1,6 @@
+# DC WHITELIST-LOG
+บอทสำหรับยืนยันสิทธิ์ผู้ใช้บน Discord
+
 # DiscordStatus-CPU
 # โปรแกรมตรวจจับค่า CPU & GPU แสดงเป็นสเตตัส
 
